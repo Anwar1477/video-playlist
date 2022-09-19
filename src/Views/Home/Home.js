@@ -22,6 +22,11 @@ const Home = (props) => {
             <h1>Tailwind Css</h1>
           </div>
         </Link>
+        <Link to="/PHP">
+          <div className="course__title">
+            <h1>PHP </h1>
+          </div>
+        </Link>
       </div>
     </HomeStyled>
   );
