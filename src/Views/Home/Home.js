@@ -27,7 +27,6 @@ const Home = (props) => {
             <h1>PHP </h1>
           </div>
         </Link>
-    <p> You Can Add Footer on a different file </p>
       </div>
     </HomeStyled>
   );
